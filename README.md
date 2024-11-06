@@ -35,20 +35,7 @@
 If you find 𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟. helpful, consider giving it a star ⭐ to show your appreciation.
 
 
-## 🚀 `Bot Features`
-| Feature                          | Description                                             | Available    | Version    |
-| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Full Button Bot                  | Click Button To Perform Operations                      | ✅           | 3.0        |
-| Difeerent Menu Designs           | Swith To Other Menus                                    | ✅           | 3.0        |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
-| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
-| Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
+
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
